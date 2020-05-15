@@ -13,6 +13,10 @@ This repository is currently under development. To developmental install, downlo
 
 in the repository directory.
 
+This package requires teh following:
+-NumPy
+-Matplotlib
+
 ### Copyright
 
 Copyright (c) 2020, Hafeera Shabbir
